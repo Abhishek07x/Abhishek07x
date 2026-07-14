@@ -36,6 +36,10 @@
   Tech Stack
 </h2>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,git,firebase,tailwind" />
+</p>
+
 ### ⚡ Core Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
