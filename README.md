@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <h1>Hi 👋, I'm Abhishek Tiwari</h1>
   <h3>Full-Stack Web Developer & Tech Enthusiast</h3>
 </div>
@@ -6,6 +6,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Web%20Developer-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Program-Google%20Student%20Ambassador-blue?style=for-the-badge" />
+</p> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2C68F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tarun+Gupta&repeat=false" alt="Typing SVG" />
+</h1>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="150">
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C68F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
