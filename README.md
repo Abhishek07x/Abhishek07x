@@ -84,6 +84,12 @@
 ---
 
 
-## 💬 Dev Quote
-> "The beautiful thing about code is that you can build something completely secure and dynamic from scratch."
+<h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk4Y3g5Ymd2bTh6cWYyN2F5NnAwcG9uZnBxaXVkbnUyZ2QyZHR6eCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QBw6UZxWWxoHCGJwuw/giphy.gif" width="30">
+  Dev Quote
+</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
