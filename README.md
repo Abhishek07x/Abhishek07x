@@ -16,9 +16,15 @@
   <a href="mailto:attiwari004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.linkedin.com/in/abhishek-tiwari004/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_abhishek_tiwarii_45/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-👉 **How to reach me:** Feel free to drop an email at **attiwari004@gmail.com** for collaborations or opportunities!
+👉 **How to reach me:** Drop an email at **attiwari004@gmail.com** 
 
 ---
 
