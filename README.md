@@ -73,15 +73,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek07x&show_icons=true&theme=github_dark&icon_color=2ea44f&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Abhishek's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek07x&layout=compact&theme=github_dark&icon_color=2ea44f&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Langs" />
-</p>
-
----
 
 ## 💬 Dev Quote
 > "The beautiful thing about code is that you can build something completely secure and dynamic from scratch."
